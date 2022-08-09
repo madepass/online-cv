@@ -49,18 +49,17 @@ sidebar:
       - item: Running
         link:
 
-      - item: Cooking
+      - item: Language Learning
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     My research interests revolve around bridging the gap between Computer Science and Biology. After graduating from university,
+     I began working in a Neuroscience lab. I soon took over most of the lab's data processing duties and quickly discovered the
+     massive, untapped potential in applying computational techniques in the realm of biomedical research. I, therefore, completed
+     a Data Science master's program and am currently studying Computational Neuroscience as a PhD student. My current research
+     involves developing models to udnerstand the role of consequence in reward-driven decision-making. 
 education:
     - degree: MSc in Fundamental Principles of Data Science
       university: University of Barcelona
@@ -89,28 +88,19 @@ experiences:
       time: 2016 - Present (2016-2019 full time)
       company: SRI International, Menlo Park
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        I worked full-time in the Sleep Neurobiology Lab at SRI International for 2.5 years. I worked on both
+        commercial and academic projects and my duties included: genotyping, dosing, stereotactic surgery,
+        EEG/EMG recording, manual & automated sleep scoring, data processing (MATLAB & Python) and report
+        writing. I served as a Project Leader for several pharmaco-EEG projects and I continue to process
+        data for the lab today as a remote, hourly employee. 
     - role: Research Assistant
       time: 2020-2021
       company: University of Barcelona
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I'm currently working on a project entitled "Quantifying Consequence in Reward-Driven Decision Making: A Machine Learning & Dynamical Systems
+        Approach". The overall goal of the project is to characterize the relationship between consequence and decision making in both humans and NHPs.
+        The neural component of the project involves ML-based analyses of EEG & LFP during the execution of a novel task. The behavioral component
+        involves analyses of kinematics as well as desigining and fitting reinforcement learning models. 
 projects:
     title: Projects
     intro: >
@@ -149,38 +139,27 @@ publications:
         link: "#"
         authors: Michael DePass, Ali Falaki, Stephan Quessy, Numa Dancause, Ignasi Cos
         conference: Journal of Neurophysiology, 2022
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python data science stack (scikit-learn, pandas, numpy, jupyter, etc.)
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: MATLAB
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: in vivo (antiseptic surgery, in-vivo EEG/EMG recordings, administration of drug candidates)
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Other informatics technologies (Git, Docker, GNU/Linux, etc.)
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: R
+        level: 50%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Keras/PyTorch
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
