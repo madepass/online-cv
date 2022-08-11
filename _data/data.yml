@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
@@ -102,7 +102,7 @@ experiences:
         The neural component of the project involves ML-based analyses of EEG & LFP during the execution of a novel task. The behavioral component
         involves analyses of kinematics as well as desigining and fitting reinforcement learning models. 
 projects:
-    title: Projects
+    title: # Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -131,9 +131,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Publications as of August, 2022. 
     papers:
       - title: A machine learning approach to characterize sequential movement-related states in premotor and motor cortices
         link: "#"
